@@ -1,3 +1,5 @@
+// add and remove class using listner
+
 const panels = document.querySelectorAll(".panel");
 
 panels.forEach(function (panel) {
